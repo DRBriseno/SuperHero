@@ -1,0 +1,44 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+pytest Returned below: ??? <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ pytest
+====================================== test session starts ======================================
+platform darwin -- Python 3.7.9, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
+rootdir: /Users/dixiebriseno/Make_Courses/CS1.1/superhero_team_dueler
+collected 0 items                                                                               
+
+===================================== no tests ran in 0.01s =====================================
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+pytest -x Returned below: ??? <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ pytest -x
+====================================== test session starts ======================================
+platform darwin -- Python 3.7.9, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
+rootdir: /Users/dixiebriseno/Make_Courses/CS1.1/superhero_team_dueler
+collected 0 items                                                                               
+
+===================================== no tests ran in 0.01s =====================================
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+python3 -m pytest Returned below: ??? <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ python3 -m pytest
+====================================== test session starts ======================================
+platform darwin -- Python 3.7.9, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
+rootdir: /Users/dixiebriseno/Make_Courses/CS1.1/superhero_team_dueler
+collected 0 items                                                                               
+
+===================================== no tests ran in 0.01s =====================================
+✘ dixiebriseno:superhero_team_dueler [ main {origin/main} ↓·3↑·2 | ✚ 3 ] ➭ 
